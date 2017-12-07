@@ -1,0 +1,16 @@
+[
+	{
+		"product_id" : 1,
+		"product_name" : "handbag",
+		"product_category" : "luxury",
+		"product_description" : "This is a handbag",
+		"product_price" : 21.00
+	},
+	{
+		"product_id" : 2,
+		"product_name" : "toilet paper",
+		"product_category" : "necessity",
+		"product_description" : "This is a toilet paper",
+		"product_price" : 222.00
+	}
+]
